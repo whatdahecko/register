@@ -2,7 +2,7 @@
     "description": "Project Description",
     "domain": "is-cool.dev",
     "subdomain": "kooliskool.is-cool.dev",
-
+    
     "owner": {
         "repo": "https://github.com/whatdahecko/register",
         "email": "zelmanzhang2020@gmail.com"
